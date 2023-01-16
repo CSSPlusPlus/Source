@@ -1,2 +1,2 @@
 # CSS++ 
-A CSS "Library" that makes classes for stuff, to deal with issues more easily
+A JS module that crates classes to deal with components better
