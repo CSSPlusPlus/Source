@@ -1,2 +1,2 @@
-# Source
-CSS++ a css "library" that deals with some of the css pain
+# CSS++ 
+A CSS "Library" that makes classes for stuff, to deal with issues more easily
