@@ -1,2 +1,2 @@
 # CSS++ 
-A JS module that crates classes to deal with components better
+A CSS stylesheet that makes css a bit easier
