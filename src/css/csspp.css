@@ -1,3 +1,5 @@
+/* Background*/
+
 .bg-red {
     background: red;
 }
@@ -94,6 +96,8 @@
     background: rgb(200, 0, 100);
 }
 
+/* Centering */
+
 .flex-center-children {
     display: flex;
     justify-content: center;
@@ -104,6 +108,10 @@
     display: flex;
     place-items: center;
 }
+
+/* Sizes */
+
+/* Full */
 
 .size-full-elem {
     height: 100vh;
@@ -122,6 +130,68 @@
 .size-full-height {
     height: 100%;
 }
+
+/* Two Thirds */
+
+.size-two-thirds-elem {
+    height: 75vh;
+    width: 75vw;
+}
+
+.size-two-thirds-cont {
+    height: 75%;
+    width: 75%;
+}
+
+.size-two-thirds-width {
+    width: 75%;
+}
+
+.size-two-thirds-height {
+    height: 75%;
+}
+
+/* Half */
+
+.size-half-elem {
+    height: 50vh;
+    width: 50vw;
+}
+
+.size-half-cont {
+    height: 50%;
+    width: 50%;
+}
+
+.size-half-width {
+    width: 50%;
+}
+
+.size-half-height {
+    height: 50%;
+}
+
+/* Quarter */
+
+.size-quart-elem {
+    height: 25vh;
+    width: 25vw;
+}
+
+.size-quart-cont {
+    height: 25%;
+    width: 25%;
+}
+
+.size-quart-width {
+    width: 25%;
+}
+
+.size-quart-height {
+    height: 25%;
+}
+
+/*  Radius */
 
 .radius-25 {
     border-radius: 25px;
