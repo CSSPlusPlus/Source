@@ -406,3 +406,17 @@
 .font-size-9r {
     font-size: 9rem;
 }
+
+/* Other */
+
+.of-off-both {
+    overflow: hidden;
+}
+
+.of-off-x {
+    overflow-x: hidden;
+}
+
+.of-off-y {
+    overflow-y: hidden;
+}
