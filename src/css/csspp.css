@@ -191,7 +191,9 @@
     height: 25%;
 }
 
-/*  Radius */
+/*  Radiuses */
+
+/* All */
 
 .radius-25 {
     border-radius: 25px;
@@ -215,4 +217,122 @@
 
 .radius-whole {
     border-radius: 100%;
+}
+
+/* Right top */
+
+.rt-radius-25 {
+    border-top-right-radius: 25px;
+}
+
+.rt-radius-50 {
+    border-bottom-right-radius: 50px;
+}
+
+.rt-radius-quart {
+    border-top-right-radius: 25%;
+}
+
+.rt-radius-half {
+    border-top-right-radius: 50%;
+}
+
+.rt-radius-two-thirds {
+    border-top-right-radius: 75%;
+}
+
+.rt-radius-whole {
+    border-top-right-radius: 100%;
+}
+
+/* Right bottom */
+
+.rb-radius-25 {
+    border-bottom-right-radius: 25px;
+}
+
+.rb-radius-50 {
+    border-bottom-right-radius: 50px;
+}
+
+.rb-radius-quart {
+    border-bottom-right-radius: 25%;
+}
+
+.rb-radius-half {
+    border-bottom-right-radius: 50%;
+}
+
+.rb-radius-two-thirds {
+    border-bottom-right-radius: 75%;
+}
+
+.rb-radius-whole {
+    border-bottom-right-radius: 100%;
+}
+
+/* Left top */
+
+.lt-radius-25 {
+    border-top-left-radius: 25px;
+}
+
+.lt-radius-50 {
+    border-top-left-radius: 50px;
+}
+
+.lt-radius-quart {
+    border-top-left-radius: 25%;
+}
+
+.lt-radius-half {
+    border-top-left-radius: 50%;
+}
+
+.lt-radius-two-thirds {
+    border-top-left-radius: 75%;
+}
+
+.lt-radius-whole {
+    border-top-left-radius: 100%;
+}
+
+/* Left bottom */
+
+.lb-radius-25 {
+    border-bottom-left-radius: 25px;
+}
+
+.lb-radius-50 {
+    border-bottom-left-radius: 50px;
+}
+
+.lb-radius-quart {
+    border-bottom-left-radius: 25%;
+}
+
+.lb-radius-half {
+    border-bottom-left-radius: 50%;
+}
+
+.lb-radius-two-thirds {
+    border-bottom-left-radius: 75%;
+}
+
+.lb-radius-whole {
+    border-bottom-left-radius: 100%;
+}
+
+/* Fonts */
+
+.font-mono {
+    font-family: monospace;
+}
+
+.font-tnr {
+    font-family: 'Times New Roman';
+}
+
+.font-cursive {
+    font-family: cursive;
 }
