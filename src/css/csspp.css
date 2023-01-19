@@ -96,6 +96,10 @@
     background: rgb(200, 0, 100);
 }
 
+.bg-white {
+    background: white;
+}
+
 /* Centering */
 
 .flex-center-children {
